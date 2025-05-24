@@ -1,6 +1,6 @@
 package com.gadgetstore.data.repository;
 
-import com.gadgetstore.model.Product;
+import com.gadgetstore.data.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.gadgetstore.model;
+package com.gadgetstore.data.model;
 
 public enum ERole {
     ROLE_USER,
